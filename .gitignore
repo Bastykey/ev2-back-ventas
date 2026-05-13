@@ -32,3 +32,9 @@ build/
 
 ### VS Code ###
 .vscode/
+target
+.git
+.github
+.idea
+*.log
+.DS_Store
